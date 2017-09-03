@@ -1,0 +1,80 @@
+/* site.css */
+header, footer {
+  background-color: lightgray;
+  border: solid 1px black;
+ 
+}
+
+header {
+  font-size: 26px;
+}
+footer {
+  padding: 10px;
+  border-radius: 3px;
+}
+
+body {
+  font-family: Segoe UI, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.borderedArea {
+  border: solid 1px #444;
+}
+
+#main {
+  border: solid 1px #ccc;
+  border-radius: 5px;
+  color: #202020;
+  margin: 20px 0;
+  padding: 5px;
+}
+
+#results {
+  padding: 2px;
+  width: 1200px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#resultHeader {
+  font-family: 'Times New Roman', serif;
+  font-size: 20px;
+  font-weight: 'Strong';
+  text-decoration: underline;
+  margin-bottom: 5px;
+}
+.simple-form {
+  padding: 2px;
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.simple-form label {
+  font-weight: bold;
+}
+
+
+header nav {
+  float: right;
+  margin-right: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
